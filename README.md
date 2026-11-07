@@ -20,6 +20,18 @@
 | 播放 | 内置播放页，支持镜像源切换 |
 | 搜索 | 关键词检索内容库 |
 
+## 界面预览
+
+| 首页 | 电影列表 |
+| --- | --- |
+| ![首页](preview/01-home.jpg) | ![电影列表](preview/02-movie-list.jpg) |
+
+| 影片详情 | 播放页 |
+| --- | --- |
+| ![影片详情](preview/03-detail.png) | ![播放页](preview/04-player.png) |
+
+> 截图均来自实际运行界面。影视资源由上游内容源提供，播放体验以实际源可用性为准。
+
 ## 下载
 
 前往 **[Releases 下载页](https://github.com/xg0001/tututv/releases/latest)** 下载 `凸凸影视.exe`，双击运行即可，无需安装任何依赖。
