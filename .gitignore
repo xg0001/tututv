@@ -1,0 +1,13 @@
+# 源码与构建产物一律不上传
+tututv/
+target/
+dist/
+node_modules/
+*.rs
+*.toml
+*.json
+Cargo.lock
+*.html
+*.js
+.trash/
+.workbuddy/
